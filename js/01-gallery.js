@@ -1,8 +1,6 @@
 import { galleryItems } from './gallery-items.js';
 // Change code below this line
 
-console.log(galleryItems);
-
 const galleryInit = function () {
   let htmlGallery = '';
   galleryItems.forEach(
